@@ -1,0 +1,35 @@
+button{
+
+    width: 150px;
+
+    padding: 10px;
+
+    border: 2px solid bisque;
+
+    background-color: lightblue;
+
+    border-radius: 100px;
+
+    color: bisque;
+}
+button:hover{
+
+    background-color: rgba(245, 245, 220, 0.523);
+
+}
+.details{
+
+    background-color: bisque;
+
+    width: 300px;
+
+    margin-top: 30px;
+
+    text-align: center;
+
+    color: white;
+
+    font-size: 15px;
+
+    display: none;
+}
